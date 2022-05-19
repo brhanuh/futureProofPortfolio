@@ -1,0 +1,15 @@
+.card-img-top{
+    width: 100%;
+    height: 20vh;
+    object-fit: cover;
+}
+
+.grid-img-top {
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+}
+img.self-image{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
